@@ -19,7 +19,8 @@ Hi there! I'm Traveler, a computer science student at Tsinghua University explor
 <div style="text-align: center;">
   <div style="flex: 1;"></div> <!-- 左边的空白 -->
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=traveler2333&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-![暗色](https://raw.githubusercontent.com/traveler2333/traveler2333/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/traveler2333/traveler2333/output/github-contribution-grid-snake.svg)
   <div style="flex: 1;"></div> <!-- 右边的空白 -->
 </div>
+
+![暗色](https://raw.githubusercontent.com/traveler2333/traveler2333/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/traveler2333/traveler2333/output/github-contribution-grid-snake.svg)
